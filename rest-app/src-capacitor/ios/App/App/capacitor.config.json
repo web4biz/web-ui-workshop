@@ -1,0 +1,10 @@
+{
+  "appId": "de.web4biz.workshop",
+  "appName": "Quasar App",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www",
+  "server": {
+    "url": "http://192.168.0.148:9500"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "appId": "de.web4biz.workshop",
+  "appName": "PUG Workshop",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www"
+}

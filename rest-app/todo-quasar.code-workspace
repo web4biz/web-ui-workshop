@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../todo-quasar"
+		},
+		{
+			"path": "../todo-pinia"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
